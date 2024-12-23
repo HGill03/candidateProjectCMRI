@@ -8,3 +8,5 @@ The objective of this small exercise is to identify the number of rare variants 
 Both VCF files are for the GRCh38 reference genome.
 
 Using the above files, please write a Python script that determines how many variants in `NA12878.chr21.slice.vcf.gz` have a gnomAD population allele frequency of less than `0.01`. You are free to use common bioinformatics tools, but please wrap them inside a single Python script. 
+
+Please send a Github link for your solution to the HR team member who is working with you.
